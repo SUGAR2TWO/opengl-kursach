@@ -1,0 +1,2 @@
+# opengl-kursach
+C++/C
